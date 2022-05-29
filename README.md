@@ -3,7 +3,6 @@
 
 **mahinuralam/mahinuralam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 ### 😃 I am Md.Mahinur Alam. I'm a competitive programmer and a passionate coder enjoys experimenting with new technologies.
 
