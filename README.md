@@ -16,7 +16,7 @@
   
   
 ### 📈 Git Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khairul111010&layout=compact&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahinuralam&layout=compact&langs_count=20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khairul111010&show_icons=true&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahinuralam&show_icons=true&theme=blue-green)
 
