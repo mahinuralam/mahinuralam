@@ -1,4 +1,4 @@
-### Hi there, 👋
+### Hi there, 👋 I'm Md. Mahinur Alam
 ###  I'm a competitive programmer and a passionate coder enjoys experimenting with new technologies.
 
 - 🔭 I’m currently doing competitive programming and learning algorithms and data strucures. 
