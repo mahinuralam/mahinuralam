@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently doing competitive programming and learning algorithms and data strucures. 
 - 🌱 Along with that, I'm learning new technologies and working on my personal projects.
-- 🥅 2022 Goals: I want to improve my skills as a software engineer. 
+- 🥅 2023 Goals: I want to improve my skills as a software engineer. 
 - ⚡ Fun fact: I love to play E-Sports.
 
 
