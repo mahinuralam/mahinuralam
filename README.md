@@ -1,9 +1,10 @@
 ### Hi there, 👋 I'm Md. Mahinur Alam
-###  I Love to solve coding challenges and a passionate coder enjoys experimenting with new technologies.
+###  I Love to solve coding challenges and a passionate learner always enjoy learning/experimenting with new technologies.
 
-- 🔭 I’m currently doing competitive programming and learning algorithms and data strucures. 
-- 🌱 Along with that, I'm learning new technologies and working on my personal projects.
-- 🥅 2023 Goals: I want to improve my skills as a software engineer. 
+- 👨‍🔬 I’m currently working a Software Engineer.
+- 🔭 Actively learning new technologies and working on my personal projects.
+- 🌱 Along side that one, practising Competitive Programming and learning algorithms and data strucures.
+- 🥅 2023 Goals: I want to improve my skills as a software engineer.
 - ⚡ Fun fact: I love to play E-Sports.
 
 
