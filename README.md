@@ -1,5 +1,22 @@
-# 💫 About Me:
-- 👨‍🔬 I’m currently working as a Software Engineer.<br>- 🔭 Actively learning new technologies and working on my personal projects.<br>- 🌱 Along with that, I love to do Competitive Programming and problem-solving <br>- 📄 I do have a habit of Research on trendy Technologies Blockchain and ML.<br>- 🥅 2023 Goals: I want to improve my skills as a software engineer and Team player.<br>- ⚡ Fun fact: I love to play E-Sports.
+I'm Md Mahinur Alam. Previously I worked at Divine IT Ltd as a Jr. Software Engineer. I have completed my BSc in Computer Science and Engineering from International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh.
+
+Career Overview:
+- Research Assistant at AIMS Lab
+- Software Engineer at Divine IT Ltd
+- Researcher
+- Proficient in Backend Development
+- Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
+- Two-time Champion (2022 & 2021), Best Fresher Programmer (2019), and First Runners-up (2020) in Intra-university programming contests IUBAT
+- Represented my university in several Inter-university programming contests and ACM ICPC 2021 Dhaka Regional Contest
+- Solved more than 1600 Data Structures & Algorithm problems
+- Skilled in Decentralized systems, Solidity, Hyperledger Fabric, Rust, and Consensus Mechanisms
+- Skilled in cleaning, manipulation, and visualization using pandas, matplotlib, and Excel
+
+Programming Languages: Python, C++, Solidy, and JavaScript
+Framework: Django Rest Framework, FastApi, web3.js, and Express.js
+Database: MySQL, PostgreSQL, and MongoDB
+Machine Learning Tools: sci-kit-learn, TensorFlow, Keras
+Applications & Services: Microsoft Excel, Git, Docker
 
 <!-- 
 ## 🌐 Socials:
