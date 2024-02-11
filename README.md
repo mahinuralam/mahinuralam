@@ -3,7 +3,7 @@ I'm Md Mahinur Alam. Working as a Researcher at NSLab. Currently pursuing my MSc
 Career Overview:
 - Graduate Research Assistant at NSLab
 - Research Assistant at AIMS Lab
-- Software Engineer at Divine IT Ltd
+- Jr. Software Engineer at Divine IT Ltd
 - Researcher
 - Proficient in Backend Development
 - Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
