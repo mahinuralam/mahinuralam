@@ -1,6 +1,7 @@
-I'm Md Mahinur Alam. Previously I worked at Divine IT Ltd as a Jr. Software Engineer. I have completed my BSc in Computer Science and Engineering from International University of Business Agriculture and Technology (IUBAT), Dhaka, Bangladesh.
+I'm Md Mahinur Alam. Working as a Researcher at NSLab. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
 
 Career Overview:
+- Graduate Research Assistant at NSLab
 - Research Assistant at AIMS Lab
 - Software Engineer at Divine IT Ltd
 - Researcher
