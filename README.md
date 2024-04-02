@@ -14,13 +14,9 @@ Career Overview:
 - Skilled in cleaning, manipulation, and visualization using pandas, matplotlib, and Excel
 
 Programming Languages: Python, C++, Solidy, and JavaScript
-
 Framework: Django Rest Framework, FastApi, web3.js, and Express.js
-
 Database: MySQL, PostgreSQL, and MongoDB
-
 Machine Learning Tools: sci-kit-learn, TensorFlow, Keras
-
 Applications & Services: Microsoft Excel, Git, Docker
 
 <!-- 
