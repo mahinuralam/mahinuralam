@@ -21,7 +21,7 @@ Database: MySQL, PostgreSQL, and MongoDB
 
 Machine Learning Tools: sci-kit-learn, TensorFlow, Keras
 
-Applications & Services: Microsoft Excel, Git, Docker
+Applications & Services: Git, Docker
 
 <!-- 
 ## 🌐 Socials:
