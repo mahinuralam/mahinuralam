@@ -1,9 +1,9 @@
 I'm Md Mahinur Alam. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
 
 Career Overview:
-• Graduate Research Assistant at PICL
-
+• Graduate Research Assistant at PICL <br>
 • Research Assistant at AIMS Lab
+
 • Jr. Software Engineer at Divine IT Ltd
 
 • Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
