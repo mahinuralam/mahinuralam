@@ -1,33 +1,22 @@
 I'm Md Mahinur Alam. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
 
-Career Overview:
+Career Overview:<br>
 • Graduate Research Assistant at PICL <br>
-• Research Assistant at AIMS Lab
-
-• Jr. Software Engineer at Divine IT Ltd
-
-• Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
-
-•	KICS Fall 2024 Gumi Industrial Complex Energy Self-Sufficiency Data Academic Paper Contest Winner 2nd Prize.
-
-•	Champion (2022 & 2021), First Runners-up (2020), and Best Fresher Programmer (2019) Intra-University Programming Contests (IUPC), IUBAT. 
-
-•	Second Runners-up UITS IUPC 2022.
-
-•	ACM International Collegiate Programming Contest Dhaka Regional Contest (2021) Finalist. 
-
-•	Participation in BUET, RUET, BUBT, and AUST IUPC 2022. 
-
-•	Solved more than 1600 DSA problems in different online judges. 
-
-•	Top 25 out of 500 DApp world Solidity programming contest.
-
-•	DSA & Programming Language Mentor at IUBAT. 
+• Research Assistant at AIMS Lab <br>
+• Jr. Software Engineer at Divine IT Ltd <br>
+• Latest publication "DCFL-Chain: Digital-Twin-Based Collaborative FL-Integrated Energy Consumption Prediction for Smart Factory" <br>
+•	KICS Fall 2024 Gumi Industrial Complex Energy Self-Sufficiency Data Academic Paper Contest Winner 2nd Prize. <br>
+•	Champion (2022 & 2021), First Runners-up (2020), and Best Fresher Programmer (2019) Intra-University Programming Contests (IUPC), IUBAT. <br>
+•	Second Runners-up UITS IUPC 2022. <br>
+•	ACM International Collegiate Programming Contest Dhaka Regional Contest (2021) Finalist. <br>
+•	Participation in BUET, RUET, BUBT, and AUST IUPC 2022. <br>
+•	Solved more than 1600 DSA problems in different online judges. <br>
+•	Top 25 out of 500 DApp world Solidity programming contest. <br>
+•	DSA & Programming Language Mentor at IUBAT. <br>
 
 
-Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastApi, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux
-
-AI: TensorFlow, PyTorch, Sklearn, Pandas, Keras, Numpy, Matplotlib, OpenCV, Flower, Diffusers, Torchvision, Transformers
+Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastApi, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux <br>
+AI: TensorFlow, PyTorch, Sklearn, Pandas, Keras, Numpy, Matplotlib, OpenCV, Flower, Diffusers, Torchvision, Transformers <br>
 
 
 <!-- 
