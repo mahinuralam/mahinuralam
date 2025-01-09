@@ -4,7 +4,6 @@ Career Overview:
 • Graduate Research Assistant at PICL
 
 • Research Assistant at AIMS Lab
-
 • Jr. Software Engineer at Divine IT Ltd
 
 • Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
@@ -27,6 +26,7 @@ Career Overview:
 
 
 Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastApi, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux
+
 AI: TensorFlow, PyTorch, Sklearn, Pandas, Keras, Numpy, Matplotlib, OpenCV, Flower, Diffusers, Torchvision, Transformers
 
 
