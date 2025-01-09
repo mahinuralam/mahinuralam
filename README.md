@@ -1,27 +1,23 @@
 I'm Md Mahinur Alam. Working as a Researcher at NSLab. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
 
 Career Overview:
-- Graduate Research Assistant at NSLab
-- Research Assistant at AIMS Lab
-- Jr. Software Engineer at Divine IT Ltd
-- Researcher
-- Proficient in Backend Development
-- Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
-- Two-time Champion (2022 & 2021), Best Fresher Programmer (2019), and First Runners-up (2020) in Intra-university programming contests IUBAT
-- Represented my university in several Inter-university programming contests and ACM ICPC 2021 Dhaka Regional Contest
-- Solved more than 1600 Data Structures & Algorithm problems
-- Skilled in Decentralized systems, Solidity, Hyperledger Fabric, Rust, and Consensus Mechanisms
-- Skilled in cleaning, manipulation, and visualization using pandas, matplotlib, and Excel
+• Graduate Research Assistant at PICL
+• Research Assistant at AIMS Lab
+• Jr. Software Engineer at Divine IT Ltd
+• Latest publication "A Secure and Optimized Healthcare Data Governance Framework Leveraging Hyperledger Fabric Blockchain"
+•	KICS Fall 2024 Gumi Industrial Complex Energy Self-Sufficiency Data Academic Paper Contest Winner 2nd Prize.
+•	Champion (2022 & 2021), First Runners-up (2020), and Best Fresher Programmer (2019) Intra-University Programming Contests (IUPC), IUBAT. 
+•	Second Runners-up UITS IUPC 2022.
+•	ACM International Collegiate Programming Contest Dhaka Regional Contest (2021) Finalist. 
+•	Participation in BUET, RUET, BUBT, and AUST IUPC 2022. 
+•	Solved more than 1600 DSA problems in different online judges. 
+•	Top 25 out of 500 DApp world Solidity programming contest.
+•	DSA & Programming Language Mentor at IUBAT. 
 
-Programming Languages: Python, C++, Solidy, and JavaScript
 
-Framework: Django Rest Framework, FastApi, web3.js, and Express.js
+Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastApi, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux
+AI: TensorFlow, PyTorch, Sklearn, Pandas, Keras, Numpy, Matplotlib, OpenCV, Flower, Diffusers, Torchvision, Transformers
 
-Database: MySQL, PostgreSQL, and MongoDB
-
-Machine Learning Tools: sci-kit-learn, TensorFlow, Keras
-
-Applications & Services: Git, Docker
 
 <!-- 
 ## 🌐 Socials:
