@@ -1,4 +1,4 @@
-I'm Md Mahinur Alam. Working as a Researcher at NSLab. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
+I'm Md Mahinur Alam. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
 
 Career Overview:
 • Graduate Research Assistant at PICL
