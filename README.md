@@ -4,7 +4,6 @@ Career Overview:<br>
 • Graduate Research Assistant at PICL <br>
 • Research Assistant at AIMS Lab <br>
 • Jr. Software Engineer at Divine IT Ltd <br>
-• Latest publication "DCFL-Chain: Digital-Twin-Based Collaborative FL-Integrated Energy Consumption Prediction for Smart Factory" <br>
 •	KICS Fall 2024 Gumi Industrial Complex Energy Self-Sufficiency Data Academic Paper Contest Winner 2nd Prize. <br>
 •	Champion (2022 & 2021), First Runners-up (2020), and Best Fresher Programmer (2019) Intra-University Programming Contests (IUPC), IUBAT. <br>
 •	Second Runners-up UITS IUPC 2022. <br>
