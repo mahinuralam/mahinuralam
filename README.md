@@ -20,7 +20,6 @@ I love learning about new **technologies** and enjoy watching **E-Sports**. 🕹
 ## 🤝 Connect with Me
 
 - [**LinkedIn**](https://www.linkedin.com/in/mahinur-alam/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
-- [**GitHub**](https://github.com/your-github-profile)
 
 ---
 
@@ -52,12 +51,6 @@ Feel free to reach out to me if you are interested in **collaborating**, discuss
 Stay tuned for upcoming **data science projects**, **machine learning applications**, and more!
 
 ---
-
-
-Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastAPI, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux <br>
-AI: TensorFlow, PyTorch, Sklearn, Pandas, Keras, Numpy, Matplotlib, OpenCV, Flower, Diffusers, Torchvision, Transformers <br>
-
-
 <!-- 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Mahinur) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Mahinur Alam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md. Mahinur Alam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Mahinur Alam) 
