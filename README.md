@@ -33,19 +33,6 @@ Here are some key areas I'm currently focused on:
 
 ---
 
-## 💬 Let's Talk Tech!
-
-Feel free to reach out to me if you are interested in **collaborating**, discussing **new technologies**, or just want to talk about **machine learning** and **e-sports**!
-
----
-
-# Fun Facts about Me
-
-- 💡 **Always enthusiastic about trying new technologies and building things with them**.
-- 🎮 **ESports enthusiast**: From time to time, I enjoy following e-sports events and playing competitive games.
-
----
-
 ## 🚧 Work in Progress
 
 Stay tuned for upcoming **data science projects**, **machine learning applications**, and more!
