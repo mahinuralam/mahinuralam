@@ -1,20 +1,60 @@
-I'm Md Mahinur Alam. Currently pursuing my MSc in IT Convergence Engineering at Komoh National Institute of Technology, Gumi, South Korea.
+# Md Mahinur Alam
 
-Career Overview:<br>
-• Graduate Research Assistant at PICL <br>
-• Research Assistant at AIMS Lab <br>
-• Jr. Software Engineer at Divine IT Ltd <br>
-•	KICS Fall 2024 Gumi Industrial Complex Energy Self-Sufficiency Data Academic Paper Contest Winner 2nd Prize. <br>
-•	Champion (2022 & 2021), First Runners-up (2020), and Best Fresher Programmer (2019) Intra-University Programming Contests (IUPC), IUBAT. <br>
-•	Second Runners-up UITS IUPC 2022. <br>
-•	ACM International Collegiate Programming Contest Dhaka Regional Contest (2021) Finalist. <br>
-•	Participation in BUET, RUET, BUBT, and AUST IUPC 2022. <br>
-•	Solved more than 1600 DSA problems in different online judges. <br>
-•	Top 25 out of 500 DApp world Solidity programming contest. <br>
-•	DSA & Programming Language Mentor at IUBAT. <br>
+👋 Hi there! I'm **Md Mahinur Alam**. I'm a **Researcher** passionate about **Data Science** and **New Technologies**.
+
+🚀 **Currently working on:**
+- My **Research Projects** in Data Science and **Personal Projects** exploring new technologies.  
+- Continuously learning and experimenting with **cutting-edge technologies**.
+
+🌱 **What I'm learning**:  
+I'm diving deep into **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Big Data** technologies.
+
+🎯 **2022 Goals**:  
+I aim to **improve my skills** as a **Data Scientist** and take my knowledge in **machine learning** and **data analytics** to the next level.
+
+🎮 **Fun fact**:  
+I love learning about new **technologies** and enjoy watching **E-Sports**. 🕹️
+
+---
+
+## 🤝 Connect with Me
+
+- [**LinkedIn**](https://www.linkedin.com/in/md-mahinur-alam) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
+- [**GitHub**](https://github.com/your-github-profile)
+
+---
+
+## 🚀 My Projects & Research
+
+Here are some key areas I'm currently focused on:
+
+- **Data Science Research**: Exploring new ways to **predict**, **analyze**, and **visualize** data.
+- **Machine Learning Projects**: Building **models** to solve real-world problems using various techniques.
+- **Personal Projects**: Applying **data science** in **IoT**, **AI**, and **automation** domains.
+
+---
+
+## 💬 Let's Talk Tech!
+
+Feel free to reach out to me if you are interested in **collaborating**, discussing **new technologies**, or just want to talk about **machine learning** and **e-sports**!
+
+---
+
+# Fun Facts about Me
+
+- 💡 **Always enthusiastic about trying new technologies and building things with them**.
+- 🎮 **ESports enthusiast**: From time to time, I enjoy following e-sports events and playing competitive games.
+
+---
+
+## 🚧 Work in Progress
+
+Stay tuned for upcoming **data science projects**, **machine learning applications**, and more!
+
+---
 
 
-Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastApi, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux <br>
+Software Development: Python, C++, OOP, DSA, Django Rest Framework, FastAPI, JavaScript, Express.js, RESTful API, MySQL, SQLAlchemy, NoSQL, Postman, Docker, Linux <br>
 AI: TensorFlow, PyTorch, Sklearn, Pandas, Keras, Numpy, Matplotlib, OpenCV, Flower, Diffusers, Torchvision, Transformers <br>
 
 
