@@ -19,7 +19,7 @@ I love learning about new **technologies** and enjoy watching **E-Sports**. 🕹
 
 ## 🤝 Connect with Me
 
-- [**LinkedIn**](https://www.linkedin.com/in/md-mahinur-alam) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
+- [**LinkedIn**](https://www.linkedin.com/in/mahinur-alam/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)
 - [**GitHub**](https://github.com/your-github-profile)
 
 ---
