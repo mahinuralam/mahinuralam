@@ -7,7 +7,7 @@
 🌱 **What I'm learning**:  
 I'm diving deep into **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Big Data** technologies.
 
-🎯 **2022 Goals**:  
+🎯 **2025 Goals**:  
 I aim to **improve my skills** as a **Data Scientist** and take my knowledge in **machine learning** and **data analytics** to the next level.
 
 🎮 **Fun fact**:  
