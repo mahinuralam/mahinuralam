@@ -1,5 +1,3 @@
-# Md Mahinur Alam
-
 👋 Hi there! I'm **Md Mahinur Alam**. I'm a **Researcher** passionate about **Data Science** and **New Technologies**.
 
 🚀 **Currently working on:**
