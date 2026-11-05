@@ -1,19 +1,20 @@
 ### Hi, I'm Md Mahinur Alam 👋
 
-Ph.D. student at UMBC working on **federated learning, LLM reasoning, and computer vision**. Currently building a framework to resolve reasoning collapse in federated LLMs under heterogeneous data.
+Ph.D. student in Information Systems at UMBC, working on **federated learning, LLM reasoning, and computer vision**.
 
+## 🔬 What I'm working on
 
-## 🛠️ Projects
+- Resolving **reasoning collapse in federated LLMs** trained on heterogeneous (non-IID) data
+- A **mosquito-movement digital twin** simulation in NVIDIA Omniverse Isaac Sim
 
-| Project | What it does | Highlights |
-|---|---|---|
-| [**Distributed Financial LLM**](https://github.com/mahinuralam/flower-llm-finetune-challenge) | Federated instruction-tuning of Qwen-2.5-7B on a finance corpus with Flower and LoRA (PEFT), FedAvg over 50 clients | Avg. 61.53 on FIQA/FPB/TFNS · 5th on the Flower LLM leaderboard |
-| [**Federated Artificial Image Detection**](https://github.com/mahinuralam/Federated-Artificial-Image-Detection) | Federated multi-attention CNN for detecting AI-generated images | RealAIGI: 10k images incl. Sora · 100 clients |
-| [**Warehouse Digital Twin + RL**](https://github.com/mahinuralam/warehouse-logistics-optimization-RL) | DQN agent in a warehouse digital twin built with NVIDIA Isaac Sim and FlexSim | −30.83% picking time · −13.15% travel distance |
-| [**Multimodal Driving Hazard Detection**](https://github.com/mahinuralam/multi-modal-autonomous-driving-hazard-detection) | Real-time hazard analysis fusing speed, vision, and sound, with a VLM for visual detection | Multimodal fusion · real time |
-| [**Industrial Anomaly Detection**](https://github.com/mahinuralam/Manufacturing-Execution-Systems-MES-) | Attention-enhanced Multi-CNN Transformer fusion with Stable Diffusion synthetic defects | 98% accuracy · +4.64% over baseline |
-| [**Multimodal Emotion Recognition**](https://github.com/mahinuralam/Multimodal-Emotion-Recognition) | TMNet: Transformer fusion of EEG and speech | 97% accuracy (ternary affect) |
-| [**Quantum Federated IoMT IDS**](https://github.com/mahinuralam/Quantum-FL-IoMT) | HybridQuantumNet: hybrid quantum–classical federated learning for IoMT intrusion detection | PennyLane + PyTorch |
+## 💡 Expertise
+
+- **Federated learning:** federated fine-tuning of LLMs (Flower, LoRA/PEFT), learning under non-IID client data
+- **LLMs:** instruction tuning, reasoning, LLM tooling with LangChain and LangGraph
+- **Computer vision:** small/tiny-object detection in UAV imagery, AI-generated image detection, industrial anomaly detection, vision-language models
+- **Generative AI:** synthetic training data with Stable Diffusion
+- **Multimodal learning:** fusing vision, audio, speech, and EEG signals
+- **Digital twins & RL:** simulation in Isaac Sim and FlexSim, DQN agents for warehouse logistics
 
 ## 🧰 Tech stack
 
