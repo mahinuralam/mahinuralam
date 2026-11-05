@@ -2,9 +2,6 @@
 
 Ph.D. student at UMBC working on **federated learning, LLM reasoning, and computer vision**. Currently building a framework to resolve reasoning collapse in federated LLMs under heterogeneous data.
 
-[![Website](https://img.shields.io/badge/Website-mahinuralam.github.io-1f6feb?style=flat&logo=githubpages&logoColor=white)](https://mahinuralam.github.io/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=E9OClTAAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat)](https://www.linkedin.com/in/mahinur-alam/)
 
 ## 🛠️ Projects
 
