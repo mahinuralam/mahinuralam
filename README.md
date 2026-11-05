@@ -2,11 +2,6 @@
 
 Ph.D. student in Information Systems at UMBC, working on **federated learning, LLM reasoning, and computer vision**.
 
-## 🔬 What I'm working on
-
-- Resolving **reasoning collapse in federated LLMs** trained on heterogeneous (non-IID) data
-- A **mosquito-movement digital twin** simulation in NVIDIA Omniverse Isaac Sim
-
 ## 💡 Expertise
 
 - **Federated learning:** federated fine-tuning of LLMs (Flower, LoRA/PEFT), learning under non-IID client data
